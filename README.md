@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehsan0197
 - 👀 I’m interested in Backend 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
